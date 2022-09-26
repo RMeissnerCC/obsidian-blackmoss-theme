@@ -1,11 +1,11 @@
 /* 1. Colours! Overriding both themes */
 .theme-dark {
     --color-1: #FDF7CD;
-    --color-2: #00ECD8;
-    --color-3: #E92741;
+    --color-2: #83c7ff;
+    --color-3: #3d921c;
     --color-4: #3EC840;
-    --color-5: #E1DC3F;
-    --color-6: #418FDD;
+    --color-5: #6cff31;
+    --color-6: #dd7d41;
     --color-7: #FF9900;
 
     --background-primary: #000000;
@@ -48,10 +48,6 @@
 
 .titlebar-button {
   opacity: 1;
-}
-
-.suggestion-item.is-selected {
-  background-color: var(--text-selection);
 }
 
 /* 3. Editor and preview */
